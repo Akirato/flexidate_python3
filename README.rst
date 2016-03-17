@@ -1,4 +1,5 @@
-# Flexidate Python3
+Flexidate Python3::
+
 Python 3 port of Flexidate
 Date parsing and normalization utilities based on FlexiDate.
 
